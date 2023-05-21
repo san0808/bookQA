@@ -33,3 +33,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#resources
+/server/resources/The Courage To Be Disliked How to free yourself... (Z-Library).pdf
